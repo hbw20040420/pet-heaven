@@ -2,6 +2,9 @@
 
 A frontend-only pet adoption and rescue website built for Assignment 3.
 
+## Live Demo
+https://pet-heaven1.vercel.app
+
 ## Features
 - React single-page application with React Router navigation
 - Home, pet directory, About Us, Mission/Purpose, Pet Care, Community and Contact
